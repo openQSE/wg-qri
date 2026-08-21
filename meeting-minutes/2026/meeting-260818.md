@@ -29,7 +29,7 @@ A recurring theme throughout the meeting was that many observed limitations are 
 
 ---
 
-# Highlights
+# Key Highlights
 
 ## 1. Functional Equivalence Validated
 
