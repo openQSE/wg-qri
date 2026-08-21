@@ -1,6 +1,25 @@
-# QRMI and QDMI Comparative Analysis and Implications for the Quantum Resource Interface (QRI) Specification
+# QRI Workstream Meeting Summary 2608018
 
----
+[Slides](https://github.com/openQSE/wg-qri/blob/main/meeting-minutes/2026/QRMI_QDMI_Findings_260818.pdf)
+
+## Attendees
+
+- Yoonho Park
+- Tim Osborne
+- Marcel Walter
+- Munetaka Ohtani
+- Matthias Traube
+- Eun Kyung Lee
+- Patrick Hopf
+- Doug Ouchareck
+- Lukas Burgholzer
+- Greg Areteen
+- Claudio Carvalho
+- Oscar Wallis
+- Emre Sahin
+- Amir Shehata
+- Andrea Casotto
+- Cameron Brunner
 
 # Executive Summary
 
