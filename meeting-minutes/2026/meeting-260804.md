@@ -160,7 +160,7 @@ However, participants agreed it is still early in the acceptance process and pre
 ## Proposed Topics for the Next Meeting
 
 1. Deep dive on current interface implementations:
-    - QMI
+    - QRMI
     - QDMI
     - QFW
 2. Discussion of how those interfaces can expose operational information needed by HPC centers.
