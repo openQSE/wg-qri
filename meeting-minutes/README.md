@@ -7,4 +7,4 @@
 | Sep 29, 2026  | openQSE SC demo and updates | Multiple | [minutes-260929.md](https://github.com/openQSE/wg-qri/blob/main/meeting-minutes/2026/meeting-260929.md) | NA |
 | Oct 20, 2026  | openQSE SC demo and updates | Multiple | [minutes-261020.md](https://github.com/openQSE/wg-qri/blob/main/meeting-minutes/2026/meeting-261020.md) | NA |
 | Oct 27, 2026  | openQSE SC demo and updates | Multiple | [minutes-261027.md](https://github.com/openQSE/wg-qri/blob/main/meeting-minutes/2026/meeting-261027.md) | NA |
-| Nov 10, 2026  | openQSE SC BoF and demo and | Multiple | [minutes-261027.md](https://github.com/openQSE/wg-qri/blob/main/meeting-minutes/2026/meeting-261110.md) | NA |
+| Nov 10, 2026  | openQSE SC BoF and demo and | Multiple | [minutes-261110.md](https://github.com/openQSE/wg-qri/blob/main/meeting-minutes/2026/meeting-261110.md) | NA |
